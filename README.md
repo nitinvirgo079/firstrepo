@@ -1,5 +1,3 @@
 # firstrepo
 
-First Repo for CI Setup using Jenkin
-TESTING in progress
-TESTING
+Jenkin Repo Test
